@@ -1,6 +1,9 @@
 <h1 align="left">Hey 👋 I'm MOUTAOUAKIL Mohamed Amine </h1>
 
 ###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Code%20is%20Pure%20Art;Always%20learning%20new%20things;itsali.me/Portfolio&font=Fira%2520Code&center=true&width=440&height=45&color=f1f1f1&vCenter=true&size=22">
+</p>
 
 <p align="left">Welcome to my GitHub profile ! I'm a second-year software engineering student at the National School of Applied Sciences of Khouribga (ENSA), skilled in programming and web development. My studies and personal projects have honed my abilities in various technologies, and I’m always eager to learn and grow in the field.</p>
 
